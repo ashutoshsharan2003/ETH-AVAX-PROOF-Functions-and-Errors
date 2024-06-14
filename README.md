@@ -81,6 +81,5 @@ Once the contract is deployed, you can interact with it. The `TravelBooking` Sol
 Ashutosh Sharan 
 (https://www.linkedin.com/in/ashutosh-sharan-177630249/)
 
-
 #### License
 This TravelBooking is licensed under the MIT License
