@@ -70,7 +70,7 @@ contract TravelBooking {
        0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
     */
 }
-
+```
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.7" (or another compatible version), and then click on the "Compile TravelBooking.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "TravelBooking" contract from the dropdown menu, and then click on the "Deploy" button.
