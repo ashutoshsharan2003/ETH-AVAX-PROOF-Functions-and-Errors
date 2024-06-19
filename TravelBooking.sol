@@ -4,7 +4,7 @@ pragma solidity ^0.8.7;
 contract TravelBooking {
 
   // Define an enum for different travel destinations
-  enum Destination { Paris, Tokyo, NewYork, Sydney }
+  enum Destination { Delhi, Mumbai, Banglore, Pune }
 
   // Structure to store travel booking details
   struct Booking {
